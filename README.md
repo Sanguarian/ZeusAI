@@ -18,10 +18,9 @@ ZeusAI requires the following dependencies:
 
 * Python 3.7 or higher
 * tkinter
-* pyperclip
 * openai
 
 ## Acknowledgments
 
 * This project uses OpenAI's GPT-3 language model. 
-* Special thanks to the creators of tkinter and pyperclip.
+* Special thanks to the creators of tkinter.

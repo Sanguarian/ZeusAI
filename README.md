@@ -18,7 +18,6 @@ ZeusAI requires the following dependencies:
 
 * Python 3.7 or higher
 * tkinter
-* pyperclip
 * openai
 
 ## Acknowledgments

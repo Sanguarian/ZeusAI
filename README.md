@@ -21,10 +21,6 @@ ZeusAI requires the following dependencies:
 * pyperclip
 * openai
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Acknowledgments
 
 * This project uses OpenAI's GPT-3 language model. 

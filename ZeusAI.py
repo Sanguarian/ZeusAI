@@ -2,7 +2,7 @@ import openai
 import tkinter as tk
 
 # Set up OpenAI API
-openai.api_key = "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"
+openai.api_key = "[replace this with your API code from openAI]"
 
 # Set up OpenAI model
 model_engine = "text-davinci-003"
